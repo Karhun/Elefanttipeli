@@ -1,0 +1,2 @@
+c:\users\anette\documents\visual studio 2015\Projects\ElefanttiTasohyppelee\ElefanttiTasohyppelee\ElefanttiTasohyppeleeContent\obj\x86\Debug\ElefanttiTasohyppeleeContent.contentprojResolveAssemblyReference.cache
+C:\Users\Anette\Documents\Ohjelmointi1_Peli\ht\ElefanttiTasohyppelee\ElefanttiTasohyppelee\ElefanttiTasohyppeleeContent\obj\x86\Debug\ElefanttiTasohyppeleeContent.contentprojResolveAssemblyReference.cache

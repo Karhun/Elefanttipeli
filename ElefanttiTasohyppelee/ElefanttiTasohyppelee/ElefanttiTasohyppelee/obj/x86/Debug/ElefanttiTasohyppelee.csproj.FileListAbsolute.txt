@@ -1,0 +1,28 @@
+c:\users\anette\documents\visual studio 2015\Projects\ElefanttiTasohyppelee\ElefanttiTasohyppelee\ElefanttiTasohyppelee\bin\x86\Debug\Content\maali.xnb
+c:\users\anette\documents\visual studio 2015\Projects\ElefanttiTasohyppelee\ElefanttiTasohyppelee\ElefanttiTasohyppelee\bin\x86\Debug\Content\norsu.xnb
+c:\users\anette\documents\visual studio 2015\Projects\ElefanttiTasohyppelee\ElefanttiTasohyppelee\ElefanttiTasohyppelee\bin\x86\Debug\Content\tahti.xnb
+c:\users\anette\documents\visual studio 2015\Projects\ElefanttiTasohyppelee\ElefanttiTasohyppelee\ElefanttiTasohyppelee\bin\x86\Debug\ElefanttiTasohyppelee.exe
+c:\users\anette\documents\visual studio 2015\Projects\ElefanttiTasohyppelee\ElefanttiTasohyppelee\ElefanttiTasohyppelee\bin\x86\Debug\ElefanttiTasohyppelee.pdb
+c:\users\anette\documents\visual studio 2015\Projects\ElefanttiTasohyppelee\ElefanttiTasohyppelee\ElefanttiTasohyppelee\bin\x86\Debug\Jypeli.dll
+c:\users\anette\documents\visual studio 2015\Projects\ElefanttiTasohyppelee\ElefanttiTasohyppelee\ElefanttiTasohyppelee\bin\x86\Debug\Jypeli.xml
+c:\users\anette\documents\visual studio 2015\Projects\ElefanttiTasohyppelee\ElefanttiTasohyppelee\ElefanttiTasohyppelee\obj\x86\Debug\ElefanttiTasohyppelee.csprojResolveAssemblyReference.cache
+c:\users\anette\documents\visual studio 2015\Projects\ElefanttiTasohyppelee\ElefanttiTasohyppelee\ElefanttiTasohyppelee\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\anette\documents\visual studio 2015\Projects\ElefanttiTasohyppelee\ElefanttiTasohyppelee\ElefanttiTasohyppelee\obj\x86\Debug\ElefanttiTasohyppelee.exe
+c:\users\anette\documents\visual studio 2015\Projects\ElefanttiTasohyppelee\ElefanttiTasohyppelee\ElefanttiTasohyppelee\obj\x86\Debug\ElefanttiTasohyppelee.pdb
+c:\users\anette\documents\visual studio 2015\Projects\ElefanttiTasohyppelee\ElefanttiTasohyppelee\ElefanttiTasohyppelee\bin\x86\Debug\Content\ananas.xnb
+c:\users\anette\documents\visual studio 2015\Projects\ElefanttiTasohyppelee\ElefanttiTasohyppelee\ElefanttiTasohyppelee\bin\x86\Debug\Content\oksa.xnb
+C:\Users\Anette\Documents\Visual Studio 2015\Projects\ElefanttiTasohyppelee\ElefanttiTasohyppelee\ElefanttiTasohyppelee\bin\x86\Debug\Content\kentta1.xnb
+C:\Users\Anette\Documents\Ohjelmointi1_Peli\ht\ElefanttiTasohyppelee\ElefanttiTasohyppelee\ElefanttiTasohyppelee\bin\x86\Debug\Content\maali.xnb
+C:\Users\Anette\Documents\Ohjelmointi1_Peli\ht\ElefanttiTasohyppelee\ElefanttiTasohyppelee\ElefanttiTasohyppelee\bin\x86\Debug\Content\tahti.xnb
+C:\Users\Anette\Documents\Ohjelmointi1_Peli\ht\ElefanttiTasohyppelee\ElefanttiTasohyppelee\ElefanttiTasohyppelee\bin\x86\Debug\Content\norsu.xnb
+C:\Users\Anette\Documents\Ohjelmointi1_Peli\ht\ElefanttiTasohyppelee\ElefanttiTasohyppelee\ElefanttiTasohyppelee\bin\x86\Debug\Content\ananas.xnb
+C:\Users\Anette\Documents\Ohjelmointi1_Peli\ht\ElefanttiTasohyppelee\ElefanttiTasohyppelee\ElefanttiTasohyppelee\bin\x86\Debug\Content\oksa.xnb
+C:\Users\Anette\Documents\Ohjelmointi1_Peli\ht\ElefanttiTasohyppelee\ElefanttiTasohyppelee\ElefanttiTasohyppelee\bin\x86\Debug\Content\kentta1.xnb
+C:\Users\Anette\Documents\Ohjelmointi1_Peli\ht\ElefanttiTasohyppelee\ElefanttiTasohyppelee\ElefanttiTasohyppelee\bin\x86\Debug\ElefanttiTasohyppelee.exe
+C:\Users\Anette\Documents\Ohjelmointi1_Peli\ht\ElefanttiTasohyppelee\ElefanttiTasohyppelee\ElefanttiTasohyppelee\bin\x86\Debug\ElefanttiTasohyppelee.pdb
+C:\Users\Anette\Documents\Ohjelmointi1_Peli\ht\ElefanttiTasohyppelee\ElefanttiTasohyppelee\ElefanttiTasohyppelee\bin\x86\Debug\Jypeli.dll
+C:\Users\Anette\Documents\Ohjelmointi1_Peli\ht\ElefanttiTasohyppelee\ElefanttiTasohyppelee\ElefanttiTasohyppelee\bin\x86\Debug\Jypeli.xml
+C:\Users\Anette\Documents\Ohjelmointi1_Peli\ht\ElefanttiTasohyppelee\ElefanttiTasohyppelee\ElefanttiTasohyppelee\obj\x86\Debug\ElefanttiTasohyppelee.csprojResolveAssemblyReference.cache
+C:\Users\Anette\Documents\Ohjelmointi1_Peli\ht\ElefanttiTasohyppelee\ElefanttiTasohyppelee\ElefanttiTasohyppelee\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Anette\Documents\Ohjelmointi1_Peli\ht\ElefanttiTasohyppelee\ElefanttiTasohyppelee\ElefanttiTasohyppelee\obj\x86\Debug\ElefanttiTasohyppelee.exe
+C:\Users\Anette\Documents\Ohjelmointi1_Peli\ht\ElefanttiTasohyppelee\ElefanttiTasohyppelee\ElefanttiTasohyppelee\obj\x86\Debug\ElefanttiTasohyppelee.pdb

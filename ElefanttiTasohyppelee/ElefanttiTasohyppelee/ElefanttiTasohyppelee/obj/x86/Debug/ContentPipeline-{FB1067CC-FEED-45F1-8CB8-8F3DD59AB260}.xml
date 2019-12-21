@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>maali.wav</Source>
+      <Name>maali</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Anette\Documents\Ohjelmointi1_Peli\ht\ElefanttiTasohyppelee\ElefanttiTasohyppelee\ElefanttiTasohyppelee\bin\x86\Debug\Content\maali.xnb</Output>
+      <Time>2016-03-03T20:03:14.3932831+02:00</Time>
+    </Item>
+    <Item>
+      <Source>tahti.png</Source>
+      <Name>tahti</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Anette\Documents\Ohjelmointi1_Peli\ht\ElefanttiTasohyppelee\ElefanttiTasohyppelee\ElefanttiTasohyppelee\bin\x86\Debug\Content\tahti.xnb</Output>
+      <Time>2016-03-03T20:03:14.4002835+02:00</Time>
+    </Item>
+    <Item>
+      <Source>norsu.png</Source>
+      <Name>norsu</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Anette\Documents\Ohjelmointi1_Peli\ht\ElefanttiTasohyppelee\ElefanttiTasohyppelee\ElefanttiTasohyppelee\bin\x86\Debug\Content\norsu.xnb</Output>
+      <Time>2016-03-03T22:15:35.7175687+02:00</Time>
+    </Item>
+    <Item>
+      <Source>ananas.png</Source>
+      <Name>ananas</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Anette\Documents\Ohjelmointi1_Peli\ht\ElefanttiTasohyppelee\ElefanttiTasohyppelee\ElefanttiTasohyppelee\bin\x86\Debug\Content\ananas.xnb</Output>
+      <Time>2016-03-03T23:53:58.3971928+02:00</Time>
+    </Item>
+    <Item>
+      <Source>oksa.png</Source>
+      <Name>oksa</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Anette\Documents\Ohjelmointi1_Peli\ht\ElefanttiTasohyppelee\ElefanttiTasohyppelee\ElefanttiTasohyppelee\bin\x86\Debug\Content\oksa.xnb</Output>
+      <Time>2016-03-03T23:56:44.1707585+02:00</Time>
+    </Item>
+    <Item>
+      <Source>kentta1.txt</Source>
+      <Name>kentta1</Name>
+      <Importer>TextFileImporter</Importer>
+      <Processor>TextFileContentProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Anette\Documents\Ohjelmointi1_Peli\ht\ElefanttiTasohyppelee\ElefanttiTasohyppelee\ElefanttiTasohyppelee\bin\x86\Debug\Content\kentta1.xnb</Output>
+      <Time>2016-03-04T15:15:57.0540629+02:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{FB1067CC-FEED-45F1-8CB8-8F3DD59AB260}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Anette\Documents\Ohjelmointi1_Peli\ht\ElefanttiTasohyppelee\ElefanttiTasohyppelee\ElefanttiTasohyppeleeContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Anette\Documents\Ohjelmointi1_Peli\ht\ElefanttiTasohyppelee\ElefanttiTasohyppelee\ElefanttiTasohyppelee\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Anette\Documents\Ohjelmointi1_Peli\ht\ElefanttiTasohyppelee\ElefanttiTasohyppelee\ElefanttiTasohyppelee\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Anette\Documents\Ohjelmointi1_Peli\ht\ElefanttiTasohyppelee\ElefanttiTasohyppelee\ElefanttiTasohyppelee\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Jypeli\lib\ContentExtensions\TextFileContentExtension.dll</Key>
+        <Value>2015-10-29T23:10:32+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T17:22:30+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T17:22:30+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Jypeli\lib\ContentExtensions\AnimationExtension.dll</Key>
+        <Value>2015-10-29T23:10:32+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2016-01-11T20:18:25.7665513+02:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
